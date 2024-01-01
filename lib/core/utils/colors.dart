@@ -6,7 +6,7 @@ class AppColors {
   static Color grey = const Color(0xff667080);
   static Color greyBold = const Color(0xff828282);
   static Color transparent = Colors.transparent;
-  static MaterialColor kprimaryColor = MaterialColor(0xfff98121, _goldColor);
+  static MaterialColor primaryColor = MaterialColor(0xfff98121, _goldColor);
 }
 
 Map<int, Color> _goldColor = {
